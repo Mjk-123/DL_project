@@ -1,5 +1,5 @@
-# Change path before using
-Use the following commands to generate (type, token) pairs
+# Use the following commands to generate (type, token) pairs
+Change path before using
 
 $ python download.py [number of files]  
 $ python solutions.py  
