@@ -1,1 +1,0 @@
-[{"code": "main", "label": "METHOD"},{"code": "<global>", "label": "METHOD"},{"code": "<global>", "label": "METHOD"},{"code": "<operator>.assignment", "label": "METHOD"},{"code": "x", "label": "IDENTIFIER"},{"code": "x", "label": "IDENTIFIER"},{"code": "1", "label": "LITERAL"},{"code": "x = 1", "label": "CALL"}]
